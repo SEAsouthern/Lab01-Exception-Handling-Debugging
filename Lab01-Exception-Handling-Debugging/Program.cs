@@ -31,6 +31,13 @@ namespace Lab01_Exception_Handling_Debugging
             {
                 int number = Convert.ToInt32(answer);
                 PopulateMethod(number);
+                /*
+                GetSumMethod();
+                GetProductMethod();
+                GetQuotientMethod();
+                */
+
+
             }
             catch (Exception)
             {
